@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+  }
+  body {
+    min-height: 100%;
+    background-color: black;
+  }
+.main-container {
+    
+}
+
+.person-button {
+    width: 100%
+}
